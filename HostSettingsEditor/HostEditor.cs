@@ -22,7 +22,7 @@ namespace HostSettingsEditor
             InitializeComponent();
         }
 
-        // ensuring the UI looks reasonably good
+        // ensuring the UI looks reasonably good // goto line 456 for actual code
         private void HostEditor_Load(object sender, EventArgs e)
         {
             //Set default settings
