@@ -35,11 +35,11 @@ Set the build configuration to release x86 before building the project.
 
 # Credits
 
+- **cienceTM** (https://github.com/cienceTM/HostEditor) for developing the core functionality of HostEditor.
+
 - **Cheat Engine** (https://www.cheatengine.org) for providing the tools to acquire memory addresses.
   
 - The **Innersloth team** for creating *Among Us* and for the in-game UI elements utilized in this tool.
-  
-- **cienceTM** (https://github.com/cienceTM/HostEditor) for developing the core functionality of HostEditor.
   
 - **The Alizer YouTube channel** provided valuable guidance on obtaining memory addresses using Cheat Engine,
 as demonstrated in this video: [How to Find Addresses in Among us](https://www.youtube.com/watch?v=dyx5qcKswVk).
