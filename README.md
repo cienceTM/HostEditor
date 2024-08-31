@@ -18,8 +18,7 @@ featuring two backup addresses for each function to ensure continued functionali
 # Dependencies
 
 Please ensure that .NET 8.0 is installed before using this application. 
-You can download it from the following link: .NET 8.0 Runtime Installer.
-
+You can download it from the following link: [.NET 8.0 Runtime Installer.](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.8-windows-x86-installer?cid=getdotnetcore)
 ---
 
 # Build
