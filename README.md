@@ -15,6 +15,13 @@ featuring two backup addresses for each function to ensure continued functionali
 
 ---
 
+# Dependencies
+
+Please ensure that .NET 8.0 is installed before using this application. 
+You can download it from the following link: .NET 8.0 Runtime Installer.
+
+---
+
 # Build
 
 Set the build configuration to release x86 before building the project.
