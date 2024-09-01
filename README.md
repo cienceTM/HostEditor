@@ -39,6 +39,8 @@ Set the build configuration to release x86 before building the project.
 
 - **Cheat Engine** (https://www.cheatengine.org) for providing the tools to acquire memory addresses.
   
+- **Memory.dll** (https://github.com/erfg12/memory.dll/tree/master) for making the memory changing, incredibly easy.
+
 - The **Innersloth team** for creating *Among Us* and for the in-game UI elements utilized in this tool.
   
 - **The Alizer YouTube channel** provided valuable guidance on obtaining memory addresses using Cheat Engine,
